@@ -66,7 +66,7 @@ O objetivo desta base de dados relacional (`db_vendas_campus`) é centralizar e 
 
 ### 2.2 Modelo lógico/relacional
 
-![Modelo Lógico Relacional](01_modelo_logico/Modelo_logico_vendas_campus.png)
+![Modelo Lógico Relacional](../01_modelo_logico/Modelo_logico_vendas_campus.png)
 
 
 ### 2.4 Relacionamentos e integridade referencial
