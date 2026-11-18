@@ -10,23 +10,22 @@ Rio de Janeiro — Campus Niterói
 
 | Identificação | Informação |
 | :--- | :--- |
-| **Equipe** | [Nome da equipe] |
-| **Integrantes** | [Nomes completos] |
+| **Equipe** | Equipe Cão |
+| **Integrantes** | Gabriel de Oliveira Pires , Cauê Augusto da Silva Valença de Souza , Marcelo Silva de Oliveira  |
 | **Tema/contexto** | Cantina Solidária — Plataforma de Vendas e Encomendas no Campus |
 | **Repositório GitHub** | https://github.com/Marc3lin-facul/Projeto_Solucao_Dados_CantinaSolidaria |
 | **SGBD relacional e ambiente** | MySQL Community Server 8.0.46 (Ambiente Local — Windows) |
 | **SGBD NoSQL e ambiente** | [Preencher na APD6] |
 | **Ferramentas analíticas/ETL** | [Preencher na APD7] |
 
-> **Orientação:** Documento único e incremental: iniciar na APD1 e atualizar nas APD2, APD3, APD6 e APD7. APD4 e APD5 foram canceladas e não integram este template. Substitua os textos de orientação em azul; mantenha seções anteriores atualizadas. Versione este documento e os demais artefatos no GitHub, sem publicar credenciais.
 
 ### CONTROLE DE VERSÕES DA DOCUMENTAÇÃO
 
 | Versão | Data | APD | Responsável (is) | Principais alterações |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 17/11/2026 | APD1 | [Responsável] | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
-| 1.1 | 17/11/2026 | APD2 | [Responsável] | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
-| 1.2 | 17/11/2026 | APD3 | [Responsável] | Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
+| 1.0 | 17/11/2026 | APD1 | Marcelo | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
+| 1.1 | 17/11/2026 | APD2 | Cauê] | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
+| 1.2 | 17/11/2026 | APD3 | Gabriel | Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 
@@ -69,7 +68,6 @@ O objetivo desta base de dados relacional (`db_vendas_campus`) é centralizar e 
 
 ![Modelo Lógico Relacional](01_modelo_logico/modelo_logico.png)
 
-*(Nota: A imagem oficial da Figura 4 — Modelo lógico relacional contendo as 9 tabelas, atributos, PKs, FKs e UKs encontra-se versionada na pasta `01_modelo_logico/`.)*
 
 ### 2.4 Relacionamentos e integridade referencial
 
