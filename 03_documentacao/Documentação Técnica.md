@@ -11,7 +11,7 @@ Rio de Janeiro — Campus Niterói
 | Identificação | Informação |
 | :--- | :--- |
 | **Equipe** | Equipe Cão |
-| **Integrantes** | Gabriel de Oliveira Pires , Cauê Augusto da Silva Valença de Souza , Marcelo Silva de Oliveira  |
+| **Integrantes** | Cauê Augusto da Silva Valença de Souza, Gabriel de Oliveira Pires, Marcelo Silva de Oliveira  |
 | **Tema/contexto** | Cantina Solidária — Plataforma de Vendas e Encomendas no Campus |
 | **Repositório GitHub** | https://github.com/Marc3lin-facul/Projeto_Solucao_Dados_CantinaSolidaria |
 | **SGBD relacional e ambiente** | MySQL Community Server 8.0.46 (Ambiente Local — Windows) |
@@ -23,9 +23,9 @@ Rio de Janeiro — Campus Niterói
 
 | Versão | Data | APD | Responsável (is) | Principais alterações |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 17/11/2026 | APD1 | Marcelo | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
-| 1.1 | 17/11/2026 | APD2 | Cauê] | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
-| 1.2 | 17/11/2026 | APD3 | Gabriel | Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
+| 1.0 | 17/11/2026 | APD1 | Marcelo |  Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
+| 1.1 | 17/11/2026 | APD2 | Cauê | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
+| 1.2 | 17/11/2026 | APD3 | Gabriel | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 
