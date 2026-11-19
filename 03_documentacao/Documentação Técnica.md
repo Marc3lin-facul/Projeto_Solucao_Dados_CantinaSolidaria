@@ -23,9 +23,10 @@ Rio de Janeiro — Campus Niterói
 
 | Versão | Data | APD | Responsável (is) | Principais alterações |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 17/11/2026 | APD1 | Marcelo |  Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
-| 1.1 | 17/11/2026 | APD2 | Cauê | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
-| 1.2 | 17/11/2026 | APD3 | Gabriel | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
+| 1.0 | 17/11/2026 | APD1 | Cauê | Estruturação inicial da documentação, modelo lógico relacional, scripts DDL, DML, DQL (consultas e subconsultas) e evidências. |
+| 1.1 | 17/11/2026 | APD2 | Gabriel | Inclusão da seção de programação procedural (3 Procedures, 3 Functions e 3 Triggers), scripts e evidências de execução. |
+| 1.2 | 17/11/2026 | APD3 | Marcelo |  Inclusão das políticas de administração, segurança e integridade (criação de papéis, usuários, privilégios GRANT/REVOKE e testes). |
+
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
 
